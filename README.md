@@ -1,2 +1,2 @@
-# TF-Introdu-o-a-Modelagem-de-Sistemas
+# Requisitos de Software para um sistema de coleta para Óleos de Cozinha
 Documento de Requisito de Software entregue como trabalho final da disciplina de Introdução à Modelagem de Sistemas.
